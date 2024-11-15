@@ -8,7 +8,7 @@
 Welcome to my GitHub profile! I'm passionate about AI and robotics. I love researching new technologies in these fields and exploring how they can be integrated into human life.
 
 🔭 I’m currently working on
-- Developing an AI that is all around and works best as a human companion
+- Developing an AI that is all around and works best as a human companion.
 
 🌱 I’m currently learning
 - Deep Learning
