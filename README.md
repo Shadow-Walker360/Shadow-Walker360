@@ -34,16 +34,6 @@
 </div>
 
 ---
-
-### 🌅 Aesthetic Backgrounds (Gallery)
-| 🌍 Theme | Visual |
-|:--|:--|
-| **Sunset on the Nile River** | ![Nile Sunset](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80) |
-| **Lake Victoria Twilight** | ![Lake Victoria](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80) |
-| **Savannah Horizon** | ![Savannah](https://images.unsplash.com/photo-1476610182048-b716b8518aae?auto=format&fit=crop&w=800&q=80) |
-
----
-
 ### 💡 Featured Repositories
 | Project | Description | Link |
 |:--|:--|:--|
