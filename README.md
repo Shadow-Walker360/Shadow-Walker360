@@ -89,6 +89,7 @@ I build **autonomous systems**, **cyber fortresses**, and **AI frameworks** that
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![C++](https://img.shields.io/badge/C++-AFF23H?style=for-the-badge&logo=C++&logoColor=white)
 
 </div>
 
