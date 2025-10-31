@@ -109,6 +109,8 @@ I build **autonomous systems**, **cyber fortresses**, and **AI frameworks** that
 
 <sub>🏁 Updated live every 24 hours — no human intervention required.</sub>
 
+
+
 ---
 
 ### 🌐 **GLOBAL SYSTEM STATUS**
@@ -121,6 +123,12 @@ I build **autonomous systems**, **cyber fortresses**, and **AI frameworks** that
 
 ### 🌍 **GLOBAL SYSTEMS ONLINE COUNTER**
 **Active Systems:** ![Active Systems](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Shadow-Walker360/repos&query=$.length&label=Hosted%20Projects&color=brightgreen&logo=github)
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/Shadow-Walker360/Shadow-Walker360?style=for-the-badge&color=blue" alt="Last Updated Badge" />
+</p>
 
 ---
 
