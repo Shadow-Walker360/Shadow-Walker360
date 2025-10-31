@@ -1,15 +1,15 @@
 <!-- ────────────────────────────── -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Collins+Joshua;Architect+of+Systems;Founder+of+FundiNow;Cyber+Strategist+%7C+AI+Engineer;Poet+in+Code+and+Logic" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Collins+Joshua;Architect+of+Systems;Founder+of+FundiNow;Cyber+Strategist+%7C+AI+Engineer;Poet+in+Code+and+Logic;Building+Tomorrow,+One+System+at+a+Time" alt="Typing Animation" />
 </h1>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:joscollins6@gmail.com)
 [![FundiNow](https://img.shields.io/badge/FundiNow-Platform-green?style=for-the-badge&logo=react)](https://github.com/Shadow-Walker360/FundiNow)
 [![Visitor Count](https://komarev.com/ghpvc/?username=Shadow-Walker360&style=for-the-badge&color=blue)](https://github.com/Shadow-Walker360)
+[![Last Updated](https://img.shields.io/github/last-commit/Shadow-Walker360/Shadow-Walker360?style=for-the-badge&logo=github&color=ff69b4)](https://github.com/Shadow-Walker360)
 
 </div>
 
@@ -21,9 +21,9 @@
 ---
 
 ### 🧭 **ABOUT ME**
-I don’t just code — I architect.  
-Every repository is a blueprint; every line of code, a calculated stroke in the painting of progress.  
-I build **offline systems**, **AI frameworks**, **cyber defenses**, and **learning algorithms** that outlive trends.
+I don’t just code — I **architect intelligence**.  
+Every repo is a **blueprint**, every commit a **pulse**.  
+I build **autonomous systems**, **cyber fortresses**, and **AI frameworks** that whisper logic long after I’m gone.
 
 ---
 
@@ -31,82 +31,45 @@ I build **offline systems**, **AI frameworks**, **cyber defenses**, and **learni
 
 <details>
 <summary>🧰 <b>FundiNow</b> — AI-Driven Booking & Service Ecosystem</summary>
-
-- Full MERN Stack + AI quote wizard + Microlearning + Loyalty Wallet  
-- Integrated offline mode (USSD + WhatsApp gateway)  
-- Swagger API docs, MongoDB Atlas, Socket.IO  
-- *Purpose:* Elevate artisanship into digital dignity.  
-
+- MERN Stack + AI Quote Wizard + Wallet System  
+- Offline mode (USSD + WhatsApp gateway)  
+- Swagger API docs + MongoDB Atlas + Socket.IO  
+- *Purpose:* Elevate artisanship into digital dignity.*  
 </details>
 
 <details>
 <summary>🦅 <b>Phoenix Sentinel Omni</b> — Cybersecurity Sentinel</summary>
-
-- Built in Python, with GUI & encrypted blackpaper.  
-- Acts as firewall, pentesting suite & system guardian.  
-- Converts logic into defense mechanisms.  
+- Python GUI + Encrypted Blackpaper  
+- Acts as firewall, pentesting suite & digital guardian  
 - *Purpose:* Stand between chaos & compromise.*  
-
 </details>
 
 <details>
 <summary>🧬 <b>AetherMind</b> — Offline AI Companion</summary>
-
-- Local MongoDB NLP-powered assistant with recall memory.  
-- Pythonic front- and backend with minimal latency.  
-- *Purpose:* Mental computation meets emotional intelligence.*
-
+- Local MongoDB NLP-powered assistant  
+- Pythonic logic, zero-latency, persistent memory  
+- *Purpose:* Emotion meets computation.*  
 </details>
 
 <details>
-<summary>💬 <b>Mzee Voice Butler</b> — Java Android Voice App</summary>
-
-- Uses system voice to greet, read messages, and charm.  
-- Built in pure Java (Android 8+).  
-- *Purpose:* Honor legacy with humor.*
-
+<summary>💬 <b>Mzee Voice Butler</b> — Android Voice App</summary>
+- Greets, reads SMS, and jokes with legacy humor  
+- Built in pure Java (Android 8+)  
+- *Purpose:* Honor legacy with laughter.*  
 </details>
 
 <details>
 <summary>💸 <b>Billing System</b> — JavaFX + MongoDB</summary>
-
-- Creates both PDF & HTML invoices.  
-- Elegant GUI for real-world business operations.  
-- *Purpose:* Make small business look enterprise-ready.*
-
+- PDF & HTML invoice generator  
+- Elegant UI for small business operations  
+- *Purpose:* Make small biz look enterprise.*  
 </details>
 
 <details>
 <summary>📊 <b>Task Reminder App</b> — MERN + JWT + Charts</summary>
-
-- Dynamic dashboard, user stats, reminders & charts.  
-- Includes login/auth & real-time completion tracker.  
-- *Purpose:* Productivity gamified.*
-
-</details>
-
----
-
-## 🕰️ **LEGACY ARCHIVE**
-
-<details>
-<summary>🧾 Expense Tracker (Python)</summary>
-Offline expense manager with modern GUI, chart analytics & data persistence.
-</details>
-
-<details>
-<summary>💀 BruteHammer → Phoenix Prototype</summary>
-Evolved into NSA-grade pentest framework; combines brute-force mitigation, tracking, and system audit.
-</details>
-
-<details>
-<summary>🧠 Offline Chatbot</summary>
-Local AI brain built in Python + MongoDB — remembers, learns, and converses without internet.
-</details>
-
-<details>
-<summary>🔊 Voice Automation Assistant</summary>
-Experimental AI voice interface for personal computers.
+- Dynamic dashboard, user stats, reminders & charts  
+- Auth, live completion tracker  
+- *Purpose:* Productivity gamified.*  
 </details>
 
 ---
@@ -125,27 +88,62 @@ Experimental AI voice interface for personal computers.
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 **GITHUB STATS**
+## 📈 **GITHUB STATS & SYSTEM DIAGNOSTICS**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadow-Walker360&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadow-Walker360&theme=react&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Walker360&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shadow-Walker360&show_icons=true&theme=react&hide_border=true&count_private=true" height="180em" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadow-Walker360&theme=react&hide_border=true" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Walker360&layout=compact&theme=react&hide_border=true&langs_count=10" height="150em" />
+
+---
+
+### 🏆 **ACHIEVEMENT CABINET**
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shadow-Walker360&theme=onedark&margin-w=10&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<sub>🏁 Updated live every 24 hours — no human intervention required.</sub>
+
+---
+
+### 🌐 **GLOBAL SYSTEM STATUS**
+| Platform | System | Status | Uptime |
+|-----------|---------|---------|--------|
+| ⚙️ GitHub Pages | Kenya Tourism | 🟢 Online | ![Kenya](https://img.shields.io/website?url=https%3A%2F%2Fshadow-walker360.github.io%2Fkenya-tourism&label=Live%20Status) |
+| ☁️ Auto-Scanner | Future Deployments | 🟡 Scanning | 🔄 Dynamic |
+
+---
+
+### 🌍 **GLOBAL SYSTEMS ONLINE COUNTER**
+**Active Systems:** ![Active Systems](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Shadow-Walker360/repos&query=$.length&label=Hosted%20Projects&color=brightgreen&logo=github)
+
+---
+
+### 🧮 **REAL-TIME INTEL DASHBOARD**
+![Followers](https://img.shields.io/github/followers/Shadow-Walker360?style=for-the-badge&color=blue&label=Followers)
+![Stars](https://img.shields.io/github/stars/Shadow-Walker360?style=for-the-badge&color=yellow&label=Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Shadow-Walker360&query=$.public_repos&label=Repositories&style=for-the-badge&color=green)
+![Commits](https://img.shields.io/github/commit-activity/m/Shadow-Walker360?style=for-the-badge&color=red&label=Commit%20Rate)
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow-Walker360&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadow-Walker360&theme=tokyonight)
+
+</div>
 
 ---
 
 ## 🧠 **MACHISMO & MANIFESTO**
 
 > “Code doesn’t fear the unknown — it documents it.”  
->  
 > “Power is quiet confidence, shipped in stable branches.”  
->  
 > “Build things that teach, defend, and outlast.”
 
 ---
