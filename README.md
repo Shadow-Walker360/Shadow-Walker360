@@ -108,10 +108,6 @@ I build **autonomous systems**, **cyber fortresses**, and **AI frameworks** that
 ### 🏆 **ACHIEVEMENT CABINET**
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shadow-Walker360&theme=onedark&margin-w=10&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<sub>🏁 Updated live every 24 hours — no human intervention required.</sub>
-
-
-
 ---
 
 ### 🌐 **GLOBAL SYSTEM STATUS**
